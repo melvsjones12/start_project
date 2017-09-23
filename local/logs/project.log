@@ -1,0 +1,54 @@
+2017-09-23T03:10:14.026Z - normal: Load ~/.CocosCreator/settings.json
+2017-09-23T03:10:14.040Z - normal: checking language setting...
+2017-09-23T03:10:14.041Z - normal: Language: en
+2017-09-23T03:10:16.011Z - success: protocol editor-framework registered
+2017-09-23T03:10:16.011Z - success: protocol app registered
+2017-09-23T03:10:16.011Z - success: protocol theme registered
+2017-09-23T03:10:16.011Z - success: protocol profile registered
+2017-09-23T03:10:16.011Z - success: protocol packages registered
+2017-09-23T03:10:16.011Z - success: protocol unpack registerred
+2017-09-23T03:10:16.011Z - success: protocol disable-commonjs registerred
+2017-09-23T03:10:19.016Z - normal: failed to connect login server due to request timeout
+2017-09-23T03:10:19.016Z - normal: Check project C:\Users\student\Desktop\start_project
+2017-09-23T03:10:19.026Z - normal: Initializing Cocos2d
+2017-09-23T03:10:19.316Z - normal: Initializing Asset Database
+2017-09-23T03:10:19.356Z - success: protocol uuid registerred
+2017-09-23T03:10:19.366Z - success: protocol db registerred
+2017-09-23T03:10:19.366Z - success: protocol thumbnail registerred
+2017-09-23T03:10:19.366Z - normal: Loading editor/builtin packages
+2017-09-23T03:10:19.396Z - success: anysdk loaded
+2017-09-23T03:10:19.566Z - success: assets loaded
+2017-09-23T03:10:19.566Z - success: builder loaded
+2017-09-23T03:10:19.576Z - success: hierarchy loaded
+2017-09-23T03:10:19.576Z - success: inspector loaded
+2017-09-23T03:10:19.576Z - success: keystore loaded
+2017-09-23T03:10:19.586Z - success: node-library loaded
+2017-09-23T03:10:19.586Z - success: package-asset loaded
+2017-09-23T03:10:19.586Z - success: preferences loaded
+2017-09-23T03:10:19.586Z - success: project-exporter loaded
+2017-09-23T03:10:19.606Z - success: project-importer loaded
+2017-09-23T03:10:19.606Z - success: project-settings loaded
+2017-09-23T03:10:19.606Z - success: ui-kit loaded
+2017-09-23T03:10:19.616Z - success: ui-grid loaded
+2017-09-23T03:10:19.616Z - success: scene loaded
+2017-09-23T03:10:19.616Z - success: sprite-editor loaded
+2017-09-23T03:10:19.626Z - success: store loaded
+2017-09-23T03:10:19.636Z - success: timeline loaded
+2017-09-23T03:10:19.636Z - normal: Loading builtin packages
+2017-09-23T03:10:19.636Z - success: asset-db-debugger loaded
+2017-09-23T03:10:19.636Z - success: color-picker loaded
+2017-09-23T03:10:19.636Z - success: console loaded
+2017-09-23T03:10:19.646Z - success: package-manager loaded
+2017-09-23T03:10:19.646Z - success: sdkbox loaded
+2017-09-23T03:10:19.646Z - success: tester loaded
+2017-09-23T03:10:19.656Z - success: ui-kit-preview-extra loaded
+2017-09-23T03:10:19.656Z - success: ui-kit-preview loaded
+2017-09-23T03:10:19.656Z - success: ui-tree loaded
+2017-09-23T03:10:20.986Z - normal: Initializing project C:\Users\student\Desktop\start_project
+2017-09-23T03:10:21.006Z - normal: Loading packages
+2017-09-23T03:10:21.006Z - normal: Watching packages
+2017-09-23T03:10:21.046Z - normal: Run Application
+2017-09-23T03:10:22.650Z - success: preview server running at http://localhost:7456
+2017-09-23T03:10:29.167Z - normal: 1.6.1
+2017-09-23T03:17:11.926Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:8574
+2017-09-23T03:17:11.953Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:8577
