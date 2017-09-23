@@ -312,7 +312,7 @@
     "_position": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": -18
+      "y": -167
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -355,10 +355,10 @@
       "__id__": 7
     },
     "_enabled": true,
-    "jumpHeight": 100,
+    "jumpHeight": 150,
     "jumpDuration": 0.3,
-    "maxMoveSpeed": 200,
-    "accel": 250
+    "maxMoveSpeed": 400,
+    "accel": 1000
   },
   {
     "__type__": "cc.Canvas",
