@@ -50,3 +50,9 @@
 2017-09-23T04:38:04.733Z - normal: Run Application
 2017-09-23T04:38:06.713Z - success: preview server running at http://localhost:7456
 2017-09-23T04:38:13.424Z - normal: 1.6.1
+2017-09-23T05:42:54.013Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "c9c9e803-3039-4bcf-9bed-3b6f90cae1f0"
+
+2017-09-23T05:42:54.018Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "c9c9e803-3039-4bcf-9bed-3b6f90cae1f0"
+
